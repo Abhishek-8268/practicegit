@@ -6,3 +6,5 @@ def subtraction(a,b):
     return a-b
 def ration(a,b):
     return a/b
+
+print("Hello")
